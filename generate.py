@@ -25,6 +25,16 @@ def generateHTML(title, directories, files):
 <i>These notes were <a href="https://www.passbe.com/2019/08/01/bulk-export-onenote-2013-2016-pages-as-html/">generated</a> from OneNote.  
 Sorry if it looks like a mess!</i>
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107434487-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {{
+      dataLayer.push(arguments);
+  }}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107434487-2');
+</script>
 </body>
 </html>
 """
